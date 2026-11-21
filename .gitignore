@@ -1,0 +1,48 @@
+# backups
+_orig/
+_orig-src.tgz
+_pre-*.tgz
+*.bak*
+*.bak
+
+# venv, deps, toolchain binaries
+.venv/
+venv/
+node_modules/
+gbdk/
+vendor/
+
+# OS / macOS sidecars
+.DS_Store
+._*
+
+# python
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# compiler / emulator leftovers
+*.o
+*.ihx
+*.map
+*.lst
+*.noi
+*.cdb
+*.asm
+*.sym
+*.ram
+*.sav
+*.gb.ram
+*.gbc.ram
+
+# logs (keep small playtest notes if we add them explicitly)
+logs/
+*.log
+
+# build intermediates, but keep the shipped ROM
+build/*
+!build/*.gbc
+
+# generated previews
+src/gen/*_preview.png
+assets/*_preview.png

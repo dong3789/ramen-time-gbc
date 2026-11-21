@@ -1,0 +1,1 @@
+wait:8,snap:title,press:start:4,wait:20,snap:play,wait:104,press:a:4,wait:10,snap:perfect,wait:2900,snap:results
