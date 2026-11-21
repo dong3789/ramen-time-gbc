@@ -1,17 +1,12 @@
 # RAMEN TIME
 
+![타이틀](docs/title.png)
+![플레이](docs/play.png)
+![결과](docs/results.png)
+
 라면 끓이기 타이밍을 맞추는 Game Boy Color 게임입니다.
 
 [retro-game-creator](https://github.com/dong3789/retro-game-creator) 키트로 만들었습니다. 실제 GBC와 R36S(ArkOS, Gambatte 코어)에서 돌아갑니다.
-
-![플레이 과정](docs/images/playtest-strip.png)
-
-<p align="center">
-  <img src="docs/images/title.png" alt="타이틀" width="160">
-  <img src="docs/images/play.png" alt="플레이" width="160">
-  <img src="docs/images/perfect.png" alt="PERFECT" width="160">
-  <img src="docs/images/results.png" alt="결과" width="160">
-</p>
 
 ## 플레이
 
